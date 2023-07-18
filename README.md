@@ -1,0 +1,25 @@
+Birth:2008 or 1996
+-chincese Zodiac :RAT
+Birth:2009 or 1997
+-chincese Zodiac :Oxen
+Birth:2010 or 1998
+-chincese Zodiac :Tiger
+Birth:2011 or 1999
+-chincese Zodiac :Rabbit
+Birth:2012 or 2000
+-chincese Zodiac :Dragon
+Birth:2013 or 2001
+-chincese Zodiac :Snake
+Birth:2014 or 2002
+-chincese Zodiac :Horse
+Birth:2015 or 2003
+-chincese Zodiac :Sheep
+Birth:2016 or 2004
+-chincese Zodiac :Monkey
+Birth:2017 or 2005
+-chincese Zodiac :Chicken
+Birth:2018 or 2006
+-chincese Zodiac :Dog
+Birth:2019 or 2007
+-chincese Zodiac :Pig
+default: Error
